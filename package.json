@@ -1,0 +1,22 @@
+{
+  "name": "symmetrical-potato",
+  "version": "1.0.0",
+  "description": "Tarea04",
+  "main": "index.js",
+  "scripts": {
+    "test": "build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mcoconan/symmetrical-potato.git"
+  },
+  "keywords": [
+    "tarea"
+  ],
+  "author": "MR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mcoconan/symmetrical-potato/issues"
+  },
+  "homepage": "https://github.com/Mcoconan/symmetrical-potato#readme"
+}
